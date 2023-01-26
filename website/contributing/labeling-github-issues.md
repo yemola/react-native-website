@@ -10,7 +10,7 @@ These generally denote issues and pull requests related to an API or Component i
 
 These labels are added automatically by one of our [bots](/contributing/bots-reference), but feel free to adjust them if the bot mis-attributes an issue.
 
-- The `p:` class of labels denote a company with whom with maintain some sort of [relationship](https://github.com/facebook/react-native/blob/main/ECOSYSTEM.md). These include Microsoft and Expo, for example. These are also added automatically by our tooling, based on the issue author.
+- The `p:` class of labels denote a company with whom we maintain some sort of [relationship](https://github.com/facebook/react-native/blob/main/ECOSYSTEM.md). These include Microsoft and Expo, for example. These are also added automatically by our tooling, based on the issue author.
 - The `DX:` class of labels denote areas that deal with the developer experience. Use these for issues that negatively impact people who use React Native.
 - The `Tool:` class of labels denote tooling. CocoaPods, Buck...
 - The `Resolution:` labels help us communicate the status of an issue. Does it need more information? What needs to be done before it can move forward?
